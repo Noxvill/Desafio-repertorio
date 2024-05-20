@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "A Dios le Pido",
+        "artista": "Juanes",
+        "tono": "Em"
+    },
+    {
+        "id": 2,
+        "titulo": "Imagine",
+        "artista": "John Lennon",
+        "tono": "C"
+    },
+    {
+        "id": 3,
+        "titulo": "Shape of You",
+        "artista": "Ed Sheeran",
+        "tono": "B minor"
+    },
+    {
+        "id": 4,
+        "titulo": "Bohemian Rhapsody",
+        "artista": "Queen",
+        "tono": "Bb"
+    }
+]
