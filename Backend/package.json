@@ -4,8 +4,8 @@
   "description": "Desafío - Like Me (Parte I)",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon /Backend/index.js",
+    "start": "node /Backend/index.js"
   },
   "keywords": [],
   "author": "",
